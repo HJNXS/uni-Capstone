@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 93376b68012aad944ad8c45bf9d32f35
+timeCreated: 1530616759
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Candle
+    100004: Candle Hand 001
+    100006: Candle Hand 002
+    100008: Candle Hand 003
+    100010: Candle Hand 004
+    100012: Candle001
+    100014: Candle002
+    100016: Candle003
+    100018: Candle004
+    400000: //RootNode
+    400002: Candle
+    400004: Candle Hand 001
+    400006: Candle Hand 002
+    400008: Candle Hand 003
+    400010: Candle Hand 004
+    400012: Candle001
+    400014: Candle002
+    400016: Candle003
+    400018: Candle004
+    2100000: Main Candlebra
+    2100002: Secondary Candlebra
+    2100004: 'Candlebra Slot #3'
+    2100006: Candle
+    2300000: //RootNode
+    2300002: Candle
+    2300004: Candle Hand 001
+    2300006: Candle Hand 002
+    2300008: Candle Hand 003
+    2300010: Candle Hand 004
+    2300012: Candle001
+    2300014: Candle002
+    2300016: Candle003
+    2300018: Candle004
+    3300000: //RootNode
+    3300002: Candle
+    3300004: Candle Hand 001
+    3300006: Candle Hand 002
+    3300008: Candle Hand 003
+    3300010: Candle Hand 004
+    3300012: Candle001
+    3300014: Candle002
+    3300016: Candle003
+    3300018: Candle004
+    4300000: Candlebra Stand
+    4300002: Candle
+    4300004: Candle001
+    4300006: Candle002
+    4300008: Candle003
+    4300010: Candle004
+    4300012: Candle Hand 004
+    4300014: Candle Hand 003
+    4300016: Candle Hand 002
+    4300018: Candle Hand 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Candle
+    second: {fileID: 2100000, guid: a6e012ba5c74a334193e599bae8d7d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Candlebra Slot #3'
+    second: {fileID: 2100000, guid: 4f4b739ee26f37f40ba8d80fd92d6e04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main Candlebra
+    second: {fileID: 2100000, guid: e1dfe922a4a5a0149bde7f8299eefb91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Secondary Candlebra
+    second: {fileID: 2100000, guid: 0695407ec91cec64887ebb777f882282, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

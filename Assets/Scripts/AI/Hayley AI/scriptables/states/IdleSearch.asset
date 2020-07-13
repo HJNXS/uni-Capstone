@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad96fc0a5f3cb2d4f99f3677578a2b7e, type: 3}
+  m_Name: IdleSearch
+  m_EditorClassIdentifier: 
+  transitions:
+  - decision: {fileID: 11400000, guid: 3ee39292247bf9d4e95fea1d2aee77e1, type: 2}
+    trueState: {fileID: 11400000, guid: 07c9780e5e8189b47a8f6ede5f0df42a, type: 2}
+    falseState: {fileID: 11400000, guid: 50d1b55f3fca8e84d835b32c64e6551f, type: 2}
+  actions:
+  - {fileID: 11400000, guid: 095a19bd7c3b4f04eaa0efceb0101fe4, type: 2}
+  sceneGizmoCol: {r: 1, g: 0.26896554, b: 0, a: 1}

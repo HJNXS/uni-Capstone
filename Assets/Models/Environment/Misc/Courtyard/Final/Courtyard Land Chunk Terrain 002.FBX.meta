@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 84b3a786d5956d34496dec085ea552d2
+timeCreated: 1534923031
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: LandChunkPipe
+    100004: LandChunkTunnel
+    100006: LandChunkWater
+    100008: Rock001
+    100010: Rock002
+    100012: Rock003
+    100014: Rock004
+    100016: Rock005
+    100018: Rock006
+    100020: Rock007
+    100022: Rock008
+    100024: Rock009
+    100026: Rock010
+    100028: Rock011
+    100030: Rock012
+    100032: Rock013
+    100034: Rock014
+    100036: Rock015
+    100038: Rock016
+    100040: Rock017
+    100042: Rock018
+    100044: Rock019
+    100046: Rock020
+    100048: Rock021
+    100050: Rock022
+    100052: Rock023
+    100054: TileDark002
+    100056: TileDark004
+    100058: TileDark005
+    100060: TileDark006
+    100062: TileDark007
+    100064: TileLight001
+    100066: TileLight003
+    100068: TileLight004
+    100070: TileLight005
+    100072: TileLight006
+    400000: //RootNode
+    400002: LandChunkPipe
+    400004: LandChunkTunnel
+    400006: LandChunkWater
+    400008: Rock001
+    400010: Rock002
+    400012: Rock003
+    400014: Rock004
+    400016: Rock005
+    400018: Rock006
+    400020: Rock007
+    400022: Rock008
+    400024: Rock009
+    400026: Rock010
+    400028: Rock011
+    400030: Rock012
+    400032: Rock013
+    400034: Rock014
+    400036: Rock015
+    400038: Rock016
+    400040: Rock017
+    400042: Rock018
+    400044: Rock019
+    400046: Rock020
+    400048: Rock021
+    400050: Rock022
+    400052: Rock023
+    400054: TileDark002
+    400056: TileDark004
+    400058: TileDark005
+    400060: TileDark006
+    400062: TileDark007
+    400064: TileLight001
+    400066: TileLight003
+    400068: TileLight004
+    400070: TileLight005
+    400072: TileLight006
+    2100000: Light Dirt
+    2100002: Dirt Dark
+    2100004: CourtTiledDirt
+    2100006: CourtDarkTiledTiles
+    2100008: CourtLightTiledTiles
+    2100010: CourtDarkSingleTiles
+    2100012: CourtSingleLightTiles
+    2100014: Rocks
+    2100016: No Name
+    2100018: Stone
+    2100020: Dark Stone
+    2300000: //RootNode
+    2300002: LandChunkPipe
+    2300004: LandChunkTunnel
+    2300006: LandChunkWater
+    2300008: Rock001
+    2300010: Rock002
+    2300012: Rock003
+    2300014: Rock004
+    2300016: Rock005
+    2300018: Rock006
+    2300020: Rock007
+    2300022: Rock008
+    2300024: Rock009
+    2300026: Rock010
+    2300028: Rock011
+    2300030: Rock012
+    2300032: Rock013
+    2300034: Rock014
+    2300036: Rock015
+    2300038: Rock016
+    2300040: Rock017
+    2300042: Rock018
+    2300044: Rock019
+    2300046: Rock020
+    2300048: Rock021
+    2300050: Rock022
+    2300052: Rock023
+    2300054: TileDark002
+    2300056: TileDark004
+    2300058: TileDark005
+    2300060: TileDark006
+    2300062: TileDark007
+    2300064: TileLight001
+    2300066: TileLight003
+    2300068: TileLight004
+    2300070: TileLight005
+    2300072: TileLight006
+    3300000: //RootNode
+    3300002: LandChunkPipe
+    3300004: LandChunkTunnel
+    3300006: LandChunkWater
+    3300008: Rock001
+    3300010: Rock002
+    3300012: Rock003
+    3300014: Rock004
+    3300016: Rock005
+    3300018: Rock006
+    3300020: Rock007
+    3300022: Rock008
+    3300024: Rock009
+    3300026: Rock010
+    3300028: Rock011
+    3300030: Rock012
+    3300032: Rock013
+    3300034: Rock014
+    3300036: Rock015
+    3300038: Rock016
+    3300040: Rock017
+    3300042: Rock018
+    3300044: Rock019
+    3300046: Rock020
+    3300048: Rock021
+    3300050: Rock022
+    3300052: Rock023
+    3300054: TileDark002
+    3300056: TileDark004
+    3300058: TileDark005
+    3300060: TileDark006
+    3300062: TileDark007
+    3300064: TileLight001
+    3300066: TileLight003
+    3300068: TileLight004
+    3300070: TileLight005
+    3300072: TileLight006
+    4300000: Land Chunk
+    4300002: TileDark002
+    4300004: TileDark004
+    4300006: TileDark005
+    4300008: TileDark006
+    4300010: TileDark007
+    4300012: TileLight001
+    4300014: TileLight003
+    4300016: TileLight004
+    4300018: TileLight005
+    4300020: TileLight006
+    4300022: Rock001
+    4300024: Rock002
+    4300026: Rock003
+    4300028: Rock004
+    4300030: Rock005
+    4300032: Rock006
+    4300034: Rock007
+    4300036: Rock008
+    4300038: Rock009
+    4300040: Rock010
+    4300042: Rock011
+    4300044: Rock012
+    4300046: Rock013
+    4300048: Rock014
+    4300050: Rock015
+    4300052: Rock016
+    4300054: Rock017
+    4300056: Rock018
+    4300058: Rock019
+    4300060: Rock020
+    4300062: Rock021
+    4300064: Rock022
+    4300066: Rock023
+    4300068: LandChunkWater
+    4300070: LandChunkTunnel
+    4300072: LandChunkPipe
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CourtDarkSingleTiles
+    second: {fileID: 2100000, guid: 2e5b8af4098c52c44bb74d6bdb7178ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CourtDarkTiledTiles
+    second: {fileID: 2100000, guid: 97b4b2f191a8ebf40b2935fb8e695a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CourtLightTiledTiles
+    second: {fileID: 2100000, guid: 0d8cc396fe2a2ca45bdf4b7e53df1b86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CourtSingleLightTiles
+    second: {fileID: 2100000, guid: 4d283f03791d7d2488d9248e0dd29800, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CourtTiledDirt
+    second: {fileID: 2100000, guid: ab678c3220eb9d54dbb8765de52e71e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Stone
+    second: {fileID: 2100000, guid: b2c5d0afe6ea8df41afed4b1f679af9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dirt Dark
+    second: {fileID: 2100000, guid: 9148f8b286ae2d34bbe2cc40b8073964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light Dirt
+    second: {fileID: 2100000, guid: 057ca72cceeec3b42b5af7516fddc82f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 60d22da0c9a99864b90152513d20466a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rocks
+    second: {fileID: 2100000, guid: 4ef3c655dc8640445bef62718a557322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone
+    second: {fileID: 2100000, guid: 7e70a5db1c834094c815ccd2891e1c42, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CheckDarkChessTiles
+    second: {fileID: 2800000, guid: 61b78c11e5d07a946abe13e3a89dfaf9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CheckDirtDark
+    second: {fileID: 2800000, guid: b0dca809e30dc8345be21f30c19ac8fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CheckLightChessTiles
+    second: {fileID: 2800000, guid: 73307f09842195743a6a5e44599a39ac, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

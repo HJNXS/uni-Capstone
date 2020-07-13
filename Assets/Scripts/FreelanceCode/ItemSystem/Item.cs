@@ -1,0 +1,23 @@
+﻿using UnityEngine;
+
+namespace JMiles42.ItemSystem
+{
+	[CreateAssetMenu(fileName = "New Item", menuName = "Item System/New Item", order = 0)]
+	public class Item: ScriptableObject
+	{
+		//*==================================================================================*//
+		//WARNING:If you add anymore data, it won't be reflected in the Item Browser
+		//But it will show up on the Inspector
+		//*==================================================================================*//
+		public string  Name;
+		[TextArea(2, 5)]
+		public string  Description;
+		public Texture Icon;
+		public int     Value = 10;
+		public bool    ShowInInventory = true;
+		//*==================================================================================*//
+		//WARNING:If you add anymore data, it won't be reflected in the Item Browser
+		//But it will show up on the Inspector
+		//*==================================================================================*//
+	}
+}

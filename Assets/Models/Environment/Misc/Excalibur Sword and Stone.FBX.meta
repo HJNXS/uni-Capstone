@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: e7489a3a63966864f8a39f54c70255a1
+timeCreated: 1530689663
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Excalibur
+    100002: //RootNode
+    100004: Stone
+    100006: Stone001
+    400000: Excalibur
+    400002: //RootNode
+    400004: Stone
+    400006: Stone001
+    2100000: Excalibur Stone Secondary
+    2100002: Excalibur Stone Primary
+    2100004: Excalibur Stone Tertiary
+    2100006: Blade
+    2100008: Haft
+    2100010: Handle
+    2100012: Excalibur Gem
+    2100014: 'Material #408'
+    2300000: Excalibur
+    2300002: //RootNode
+    2300004: Stone
+    2300006: Stone001
+    3300000: Excalibur
+    3300002: //RootNode
+    3300004: Stone
+    3300006: Stone001
+    4300000: Excalibur's Stone
+    4300002: Excalibur
+    4300004: Stone
+    4300006: Stone001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blade
+    second: {fileID: 2100000, guid: caf5ededc5f4be34fa3489959d5007eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Excalibur Gem
+    second: {fileID: 2100000, guid: 68243ba83cbc5044288ab96b41ab970e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Excalibur Stone Primary
+    second: {fileID: 2100000, guid: 9d6c55ee6c932c04594737e2f67cf6c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Excalibur Stone Secondary
+    second: {fileID: 2100000, guid: 4d2b581924e9f14419bbb47a1580f164, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Excalibur Stone Tertiary
+    second: {fileID: 2100000, guid: 4cf8d7d06eac61b4aaa32c6233be5dd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haft
+    second: {fileID: 2100000, guid: 81b63a1d190512043a4b9f8319024233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle
+    second: {fileID: 2100000, guid: 60673751b0acf2a4180e8812d2b8ebb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #408'
+    second: {fileID: 2100000, guid: b86eae53ca61c3c459a0dedd9fce3a4b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

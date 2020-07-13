@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: d15f97fe56021b8499566760e43a891a
+timeCreated: 1531837408
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Backstage Light Frame
+    100004: Backstage Light Frame001
+    100006: Backstage Light Frame002
+    100008: Backstage Light Glass Connector
+    100010: Backstage Light Glass Connector 1
+    100012: Backstage Light Glass Connector 2
+    100014: Backstage Light Glass Connector 3
+    100016: LightFrame
+    100018: LightFrame 1
+    100020: LightFrame 2
+    100022: LightFrame 3
+    100024: LightFrame001
+    100026: LightFrame002
+    400000: //RootNode
+    400002: Backstage Light Frame
+    400004: Backstage Light Frame001
+    400006: Backstage Light Frame002
+    400008: Backstage Light Glass Connector
+    400010: Backstage Light Glass Connector 1
+    400012: Backstage Light Glass Connector 2
+    400014: Backstage Light Glass Connector 3
+    400016: LightFrame
+    400018: LightFrame 1
+    400020: LightFrame 2
+    400022: LightFrame 3
+    400024: LightFrame001
+    400026: LightFrame002
+    2100000: Backstage Light Secondary
+    2100002: Backstage Light Main
+    2100004: Backstage Light Glass
+    2100006: Backstage Light Glass Frame
+    2300000: //RootNode
+    2300002: Backstage Light Frame
+    2300004: Backstage Light Frame001
+    2300006: Backstage Light Frame002
+    2300008: Backstage Light Glass Connector
+    2300010: Backstage Light Glass Connector 1
+    2300012: Backstage Light Glass Connector 2
+    2300014: Backstage Light Glass Connector 3
+    2300016: LightFrame
+    2300018: LightFrame 1
+    2300020: LightFrame 2
+    2300022: LightFrame 3
+    2300024: LightFrame001
+    2300026: LightFrame002
+    3300000: //RootNode
+    3300002: Backstage Light Frame
+    3300004: Backstage Light Frame001
+    3300006: Backstage Light Frame002
+    3300008: Backstage Light Glass Connector
+    3300010: Backstage Light Glass Connector 1
+    3300012: Backstage Light Glass Connector 2
+    3300014: Backstage Light Glass Connector 3
+    3300016: LightFrame
+    3300018: LightFrame 1
+    3300020: LightFrame 2
+    3300022: LightFrame 3
+    3300024: LightFrame001
+    3300026: LightFrame002
+    4300000: Overhead Backstage Light
+    4300002: Backstage Light Glass Connector
+    4300004: Backstage Light Glass Connector
+    4300006: Backstage Light Glass Connector
+    4300008: Backstage Light Glass Connector
+    4300010: Backstage Light Frame002
+    4300012: Backstage Light Frame001
+    4300014: Backstage Light Frame
+    4300016: LightFrame
+    4300018: LightFrame
+    4300020: LightFrame
+    4300022: LightFrame
+    4300024: LightFrame001
+    4300026: LightFrame002
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Backstage Light Glass
+    second: {fileID: 2100000, guid: 1bd8e06f38194284782f9a1562b33ce5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Backstage Light Glass Frame
+    second: {fileID: 2100000, guid: 8d2c552218e83874b82334300684996d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Backstage Light Main
+    second: {fileID: 2100000, guid: b884ca4297661ba4abfed6f4821d1502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Backstage Light Secondary
+    second: {fileID: 2100000, guid: 01ea7d850063cb74ba37a66249e379d0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: 69ec31b7fdc12724eaf7782b591adf34
+timeCreated: 1535098559
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Dog_Torch:__Dog_Mdoel
+    100002: Dog_Torch:__polySurface25
+    100004: Dog_Torch:__polySurface26
+    100006: Dog_Torch:__polySurface26 1
+    100008: Dog_Torch:__polySurface27
+    100010: Dog_Torch:_Head
+    100012: Dog_Torch:_Hips
+    100014: Dog_Torch:_LeftArm
+    100016: Dog_Torch:_LeftFoot
+    100018: Dog_Torch:_LeftForeArm
+    100020: Dog_Torch:_LeftHand
+    100022: Dog_Torch:_LeftLeg
+    100024: Dog_Torch:_LeftShoulder
+    100026: Dog_Torch:_LeftToeBase
+    100028: Dog_Torch:_LeftUpLeg
+    100030: Dog_Torch:_Neck
+    100032: Dog_Torch:_QuickRigCharacter_Ctrl_ChestEndEffector
+    100034: Dog_Torch:_QuickRigCharacter_Ctrl_ChestOriginEffector
+    100036: Dog_Torch:_QuickRigCharacter_Ctrl_Head
+    100038: Dog_Torch:_QuickRigCharacter_Ctrl_HeadEffector
+    100040: Dog_Torch:_QuickRigCharacter_Ctrl_Hips
+    100042: Dog_Torch:_QuickRigCharacter_Ctrl_HipsEffector
+    100044: Dog_Torch:_QuickRigCharacter_Ctrl_LeftAnkleEffector
+    100046: Dog_Torch:_QuickRigCharacter_Ctrl_LeftArm
+    100048: Dog_Torch:_QuickRigCharacter_Ctrl_LeftElbowEffector
+    100050: Dog_Torch:_QuickRigCharacter_Ctrl_LeftFoot
+    100052: Dog_Torch:_QuickRigCharacter_Ctrl_LeftFootEffector
+    100054: Dog_Torch:_QuickRigCharacter_Ctrl_LeftForeArm
+    100056: Dog_Torch:_QuickRigCharacter_Ctrl_LeftHand
+    100058: Dog_Torch:_QuickRigCharacter_Ctrl_LeftHipEffector
+    100060: Dog_Torch:_QuickRigCharacter_Ctrl_LeftKneeEffector
+    100062: Dog_Torch:_QuickRigCharacter_Ctrl_LeftLeg
+    100064: Dog_Torch:_QuickRigCharacter_Ctrl_LeftShoulder
+    100066: Dog_Torch:_QuickRigCharacter_Ctrl_LeftShoulderEffector
+    100068: Dog_Torch:_QuickRigCharacter_Ctrl_LeftToeBase
+    100070: Dog_Torch:_QuickRigCharacter_Ctrl_LeftUpLeg
+    100072: Dog_Torch:_QuickRigCharacter_Ctrl_LeftWristEffector
+    100074: Dog_Torch:_QuickRigCharacter_Ctrl_Neck
+    100076: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+    100078: Dog_Torch:_QuickRigCharacter_Ctrl_RightAnkleEffector
+    100080: Dog_Torch:_QuickRigCharacter_Ctrl_RightArm
+    100082: Dog_Torch:_QuickRigCharacter_Ctrl_RightElbowEffector
+    100084: Dog_Torch:_QuickRigCharacter_Ctrl_RightFoot
+    100086: Dog_Torch:_QuickRigCharacter_Ctrl_RightFootEffector
+    100088: Dog_Torch:_QuickRigCharacter_Ctrl_RightForeArm
+    100090: Dog_Torch:_QuickRigCharacter_Ctrl_RightHand
+    100092: Dog_Torch:_QuickRigCharacter_Ctrl_RightHipEffector
+    100094: Dog_Torch:_QuickRigCharacter_Ctrl_RightKneeEffector
+    100096: Dog_Torch:_QuickRigCharacter_Ctrl_RightLeg
+    100098: Dog_Torch:_QuickRigCharacter_Ctrl_RightShoulder
+    100100: Dog_Torch:_QuickRigCharacter_Ctrl_RightShoulderEffector
+    100102: Dog_Torch:_QuickRigCharacter_Ctrl_RightToeBase
+    100104: Dog_Torch:_QuickRigCharacter_Ctrl_RightUpLeg
+    100106: Dog_Torch:_QuickRigCharacter_Ctrl_RightWristEffector
+    100108: Dog_Torch:_QuickRigCharacter_Ctrl_Spine
+    100110: Dog_Torch:_QuickRigCharacter_Ctrl_Spine1
+    100112: Dog_Torch:_QuickRigCharacter_Ctrl_Spine2
+    100114: Dog_Torch:_QuickRigCharacter_Guides
+    100116: Dog_Torch:_QuickRigCharacter_Head
+    100118: Dog_Torch:_QuickRigCharacter_Hips
+    100120: Dog_Torch:_QuickRigCharacter_LeftArm
+    100122: Dog_Torch:_QuickRigCharacter_LeftFoot
+    100124: Dog_Torch:_QuickRigCharacter_LeftForeArm
+    100126: Dog_Torch:_QuickRigCharacter_LeftHand
+    100128: Dog_Torch:_QuickRigCharacter_LeftLeg
+    100130: Dog_Torch:_QuickRigCharacter_LeftShoulder
+    100132: Dog_Torch:_QuickRigCharacter_LeftToeBase
+    100134: Dog_Torch:_QuickRigCharacter_LeftUpLeg
+    100136: Dog_Torch:_QuickRigCharacter_Neck
+    100138: Dog_Torch:_QuickRigCharacter_Reference
+    100140: Dog_Torch:_QuickRigCharacter_RightArm
+    100142: Dog_Torch:_QuickRigCharacter_RightFoot
+    100144: Dog_Torch:_QuickRigCharacter_RightForeArm
+    100146: Dog_Torch:_QuickRigCharacter_RightHand
+    100148: Dog_Torch:_QuickRigCharacter_RightLeg
+    100150: Dog_Torch:_QuickRigCharacter_RightShoulder
+    100152: Dog_Torch:_QuickRigCharacter_RightToeBase
+    100154: Dog_Torch:_QuickRigCharacter_RightUpLeg
+    100156: Dog_Torch:_QuickRigCharacter_Spine
+    100158: Dog_Torch:_QuickRigCharacter_Spine1
+    100160: Dog_Torch:_QuickRigCharacter_Spine2
+    100162: Dog_Torch:_Reference
+    100164: Dog_Torch:_RightArm
+    100166: Dog_Torch:_RightFoot
+    100168: Dog_Torch:_RightForeArm
+    100170: Dog_Torch:_RightHand
+    100172: Dog_Torch:_RightLeg
+    100174: Dog_Torch:_RightShoulder
+    100176: Dog_Torch:_RightToeBase
+    100178: Dog_Torch:_RightUpLeg
+    100180: Dog_Torch:_Spine
+    100182: Dog_Torch:_Spine1
+    100184: Dog_Torch:_Spine2
+    100186: Dog_Torch:_transform1
+    100188: Dog_Torch:_transform2
+    100190: Dog_Torch:_transform3
+    100192: Dog_Torch:pCylinder1
+    100194: //RootNode
+    400000: Dog_Torch:__Dog_Mdoel
+    400002: Dog_Torch:__polySurface25
+    400004: Dog_Torch:__polySurface26
+    400006: Dog_Torch:__polySurface26 1
+    400008: Dog_Torch:__polySurface27
+    400010: Dog_Torch:_Head
+    400012: Dog_Torch:_Hips
+    400014: Dog_Torch:_LeftArm
+    400016: Dog_Torch:_LeftFoot
+    400018: Dog_Torch:_LeftForeArm
+    400020: Dog_Torch:_LeftHand
+    400022: Dog_Torch:_LeftLeg
+    400024: Dog_Torch:_LeftShoulder
+    400026: Dog_Torch:_LeftToeBase
+    400028: Dog_Torch:_LeftUpLeg
+    400030: Dog_Torch:_Neck
+    400032: Dog_Torch:_QuickRigCharacter_Ctrl_ChestEndEffector
+    400034: Dog_Torch:_QuickRigCharacter_Ctrl_ChestOriginEffector
+    400036: Dog_Torch:_QuickRigCharacter_Ctrl_Head
+    400038: Dog_Torch:_QuickRigCharacter_Ctrl_HeadEffector
+    400040: Dog_Torch:_QuickRigCharacter_Ctrl_Hips
+    400042: Dog_Torch:_QuickRigCharacter_Ctrl_HipsEffector
+    400044: Dog_Torch:_QuickRigCharacter_Ctrl_LeftAnkleEffector
+    400046: Dog_Torch:_QuickRigCharacter_Ctrl_LeftArm
+    400048: Dog_Torch:_QuickRigCharacter_Ctrl_LeftElbowEffector
+    400050: Dog_Torch:_QuickRigCharacter_Ctrl_LeftFoot
+    400052: Dog_Torch:_QuickRigCharacter_Ctrl_LeftFootEffector
+    400054: Dog_Torch:_QuickRigCharacter_Ctrl_LeftForeArm
+    400056: Dog_Torch:_QuickRigCharacter_Ctrl_LeftHand
+    400058: Dog_Torch:_QuickRigCharacter_Ctrl_LeftHipEffector
+    400060: Dog_Torch:_QuickRigCharacter_Ctrl_LeftKneeEffector
+    400062: Dog_Torch:_QuickRigCharacter_Ctrl_LeftLeg
+    400064: Dog_Torch:_QuickRigCharacter_Ctrl_LeftShoulder
+    400066: Dog_Torch:_QuickRigCharacter_Ctrl_LeftShoulderEffector
+    400068: Dog_Torch:_QuickRigCharacter_Ctrl_LeftToeBase
+    400070: Dog_Torch:_QuickRigCharacter_Ctrl_LeftUpLeg
+    400072: Dog_Torch:_QuickRigCharacter_Ctrl_LeftWristEffector
+    400074: Dog_Torch:_QuickRigCharacter_Ctrl_Neck
+    400076: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+    400078: Dog_Torch:_QuickRigCharacter_Ctrl_RightAnkleEffector
+    400080: Dog_Torch:_QuickRigCharacter_Ctrl_RightArm
+    400082: Dog_Torch:_QuickRigCharacter_Ctrl_RightElbowEffector
+    400084: Dog_Torch:_QuickRigCharacter_Ctrl_RightFoot
+    400086: Dog_Torch:_QuickRigCharacter_Ctrl_RightFootEffector
+    400088: Dog_Torch:_QuickRigCharacter_Ctrl_RightForeArm
+    400090: Dog_Torch:_QuickRigCharacter_Ctrl_RightHand
+    400092: Dog_Torch:_QuickRigCharacter_Ctrl_RightHipEffector
+    400094: Dog_Torch:_QuickRigCharacter_Ctrl_RightKneeEffector
+    400096: Dog_Torch:_QuickRigCharacter_Ctrl_RightLeg
+    400098: Dog_Torch:_QuickRigCharacter_Ctrl_RightShoulder
+    400100: Dog_Torch:_QuickRigCharacter_Ctrl_RightShoulderEffector
+    400102: Dog_Torch:_QuickRigCharacter_Ctrl_RightToeBase
+    400104: Dog_Torch:_QuickRigCharacter_Ctrl_RightUpLeg
+    400106: Dog_Torch:_QuickRigCharacter_Ctrl_RightWristEffector
+    400108: Dog_Torch:_QuickRigCharacter_Ctrl_Spine
+    400110: Dog_Torch:_QuickRigCharacter_Ctrl_Spine1
+    400112: Dog_Torch:_QuickRigCharacter_Ctrl_Spine2
+    400114: Dog_Torch:_QuickRigCharacter_Guides
+    400116: Dog_Torch:_QuickRigCharacter_Head
+    400118: Dog_Torch:_QuickRigCharacter_Hips
+    400120: Dog_Torch:_QuickRigCharacter_LeftArm
+    400122: Dog_Torch:_QuickRigCharacter_LeftFoot
+    400124: Dog_Torch:_QuickRigCharacter_LeftForeArm
+    400126: Dog_Torch:_QuickRigCharacter_LeftHand
+    400128: Dog_Torch:_QuickRigCharacter_LeftLeg
+    400130: Dog_Torch:_QuickRigCharacter_LeftShoulder
+    400132: Dog_Torch:_QuickRigCharacter_LeftToeBase
+    400134: Dog_Torch:_QuickRigCharacter_LeftUpLeg
+    400136: Dog_Torch:_QuickRigCharacter_Neck
+    400138: Dog_Torch:_QuickRigCharacter_Reference
+    400140: Dog_Torch:_QuickRigCharacter_RightArm
+    400142: Dog_Torch:_QuickRigCharacter_RightFoot
+    400144: Dog_Torch:_QuickRigCharacter_RightForeArm
+    400146: Dog_Torch:_QuickRigCharacter_RightHand
+    400148: Dog_Torch:_QuickRigCharacter_RightLeg
+    400150: Dog_Torch:_QuickRigCharacter_RightShoulder
+    400152: Dog_Torch:_QuickRigCharacter_RightToeBase
+    400154: Dog_Torch:_QuickRigCharacter_RightUpLeg
+    400156: Dog_Torch:_QuickRigCharacter_Spine
+    400158: Dog_Torch:_QuickRigCharacter_Spine1
+    400160: Dog_Torch:_QuickRigCharacter_Spine2
+    400162: Dog_Torch:_Reference
+    400164: Dog_Torch:_RightArm
+    400166: Dog_Torch:_RightFoot
+    400168: Dog_Torch:_RightForeArm
+    400170: Dog_Torch:_RightHand
+    400172: Dog_Torch:_RightLeg
+    400174: Dog_Torch:_RightShoulder
+    400176: Dog_Torch:_RightToeBase
+    400178: Dog_Torch:_RightUpLeg
+    400180: Dog_Torch:_Spine
+    400182: Dog_Torch:_Spine1
+    400184: Dog_Torch:_Spine2
+    400186: Dog_Torch:_transform1
+    400188: Dog_Torch:_transform2
+    400190: Dog_Torch:_transform3
+    400192: Dog_Torch:pCylinder1
+    400194: //RootNode
+    2100000: Dog_Torch__Colours1
+    2100002: lambert1
+    2300000: Dog_Torch:pCylinder1
+    3300000: Dog_Torch:pCylinder1
+    4300000: Dog_Torch:__polySurface26
+    4300002: Dog_Torch:pCylinder1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Dog_Torch:__polySurface26
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: "Copied Avatar Rig Configuration mis-match. Transform hierarchy
+      does not match:\n\tTransform '_QuickRigCharacter_Hips' for human bone 'Hips'
+      not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Dog_Torch:_QuickRigCharacter_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Dog_Torch:_QuickRigCharacter_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Dogexport1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:__Dog_Mdoel
+      parentName: Dogexport1(Clone)
+      position: {x: -0.17679562, y: 0.96574676, z: 0.047989745}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 15, y: 15, z: 15}
+    - name: Dog_Torch:__polySurface25
+      parentName: Dog_Torch:__Dog_Mdoel
+      position: {x: 0.011786375, y: -0.06438311, z: -0.003199316}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_transform1
+      parentName: Dog_Torch:__polySurface25
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:__polySurface26 1
+      parentName: Dog_Torch:__Dog_Mdoel
+      position: {x: 0.011786375, y: -0.06438311, z: -0.003199316}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_transform3
+      parentName: Dog_Torch:__polySurface26 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:__polySurface27
+      parentName: Dog_Torch:__Dog_Mdoel
+      position: {x: 0.011786375, y: -0.06438311, z: -0.003199316}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_transform2
+      parentName: Dog_Torch:__polySurface27
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:__polySurface26
+      parentName: Dogexport1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      parentName: Dogexport1(Clone)
+      position: {x: -0, y: -0.012607213, z: 0.0028812217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_ChestEndEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -0, y: 1.8599906, z: -0.10092008}
+      rotation: {x: 0.002120304, y: 1.2648204e-19, z: -1.2978796e-19, w: 0.9999978}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_ChestOriginEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -3.4650407e-17, y: 1.2630993, z: -0.10655412}
+      rotation: {x: 0.0004136755, y: -1.1102666e-16, z: -1.09124115e-16, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_HeadEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -6.0618733e-16, y: 2.2747383, z: -0.1221064}
+      rotation: {x: 0.00542889, y: 9.351516e-19, z: -1.113531e-16, w: 0.9999853}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_Hips
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -1.815361e-19, y: 1.1079835, z: -0.10643583}
+      rotation: {x: 1.4163847e-16, y: 1.110223e-16, z: -1.5725029e-32, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftUpLeg
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Hips
+      position: {x: -0.10869125, y: -0.0004574585, z: 0.00036010743}
+      rotation: {x: -0.029791256, y: -0.011682844, z: -0.02173695, w: 0.9992515}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftLeg
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_LeftUpLeg
+      position: {x: -0, y: -0.4569574, z: 0}
+      rotation: {x: 0.07365633, y: 0.0064347265, z: 0.00047319414, w: 0.99726284}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftFoot
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_LeftLeg
+      position: {x: -1.7763568e-17, y: -0.51442075, z: 0}
+      rotation: {x: -0.043977022, y: 0.0042968155, z: 0.017359378, w: 0.9988725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftToeBase
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_LeftFoot
+      position: {x: -0.000000057220458, y: -0.121147655, z: 0.08741199}
+      rotation: {x: 3.469142e-32, y: -0, z: -1.2246467e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightUpLeg
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Hips
+      position: {x: 0.10869125, y: -0.0004574585, z: 0.00036010743}
+      rotation: {x: -0.029781515, y: 0.011669267, z: 0.021736784, w: 0.99925196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightLeg
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_RightUpLeg
+      position: {x: 0.000000028610229, y: -0.4569574, z: 0.0000044727326}
+      rotation: {x: 0.07363825, y: -0.0064355345, z: -0.00047458342, w: 0.99726415}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightFoot
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_RightLeg
+      position: {x: -0.000000009536743, y: -0.51442075, z: 0}
+      rotation: {x: -0.04396835, y: -0.0042970646, z: -0.017378233, w: 0.9988725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightToeBase
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_RightFoot
+      position: {x: 0.0000073242186, y: -0.121147655, z: 0.08741199}
+      rotation: {x: 3.469142e-32, y: -0, z: -1.2246467e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_Spine
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Hips
+      position: {x: -0, y: 0.15511581, z: -0.00011829376}
+      rotation: {x: 0.00041367582, y: 1.857347e-18, z: 4.7237607e-21, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_Spine1
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Spine
+      position: {x: -6.1629757e-35, y: 0.15507652, z: -0.0026229953}
+      rotation: {x: 0.0008273573, y: 2.733361e-17, z: -2.8179817e-17, w: 0.9999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_Spine2
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Spine1
+      position: {x: 2.4035605e-33, y: 0.1550766, z: -0.0026229953}
+      rotation: {x: 0.0008273562, y: -5.687529e-17, z: -5.4111363e-17, w: 0.9999997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftShoulder
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Spine2
+      position: {x: -0.16492479, y: 0.28677046, z: 0.009180584}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftArm
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_LeftShoulder
+      position: {x: -0.24738717, y: -5.684342e-16, z: 1.7763568e-17}
+      rotation: {x: 0.0058895675, y: 0.013543154, z: 0.658759, w: 0.75220907}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftForeArm
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_LeftArm
+      position: {x: -0.4969768, y: 2.842171e-16, z: -1.7763568e-17}
+      rotation: {x: -0.0000003988394, y: 0.017222343, z: -0.00000076441165, w: 0.9998517}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftHand
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_LeftForeArm
+      position: {x: -0.32570267, y: 0, z: 0}
+      rotation: {x: 0.00000039498727, y: -0.000000645639, z: 0.000000735199, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:pCylinder1
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_LeftHand
+      position: {x: -0.07826897, y: -0.08418892, z: 0.013597502}
+      rotation: {x: 0.53441393, y: -0.48362467, z: -0.44808143, w: 0.528897}
+      scale: {x: 0.42125055, y: 2.6913335, z: 0.42125055}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_Neck
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Spine2
+      position: {x: -3.6977853e-33, y: 0.4177342, z: -0.010779438}
+      rotation: {x: 0.0027075536, y: 1.6814812e-16, z: 5.240935e-17, w: 0.99999636}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_Head
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Neck
+      position: {x: 2.9582283e-33, y: 0.28366652, z: -0.004477949}
+      rotation: {x: 0.0027212643, y: 8.403719e-17, z: -4.6875043e-19, w: 0.9999963}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightShoulder
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Spine2
+      position: {x: 0.16492479, y: 0.28677046, z: 0.009180584}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightArm
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_RightShoulder
+      position: {x: 0.24738717, y: -5.684342e-16, z: 1.7763568e-17}
+      rotation: {x: 0.0058978945, y: -0.013542532, z: -0.6593073, w: 0.7517285}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightForeArm
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_RightArm
+      position: {x: 0.4969768, y: 2.842171e-16, z: -1.7763568e-17}
+      rotation: {x: 0.00000016622437, y: -0.017212218, z: -0.0000019308004, w: 0.9998519}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightHand
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_RightForeArm
+      position: {x: 0.32570267, y: 0, z: 0}
+      rotation: {x: -0.00000022116676, y: -0.00000007870964, z: 0.00000041988713,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_HipsEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -0, y: 1.1075261, z: -0.10607573}
+      rotation: {x: 1.4163847e-16, y: 2.7415802e-32, z: -1.110223e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftAnkleEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.14965437, y: 0.13981771, z: -0.12448185}
+      rotation: {x: 0.000022158294, y: -0.0023697112, z: -0.0032844255, w: 0.99999183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftElbowEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.477767, y: 1.3673613, z: -0.09668847}
+      rotation: {x: -0.0039018365, y: 0.025133066, z: 0.6588155, w: 0.7518745}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftFootEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.15086451, y: 0.018670103, z: -0.037078027}
+      rotation: {x: 0.000022158032, y: -0.0023697636, z: -0.0032843882, w: 0.99999183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftHipEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.10869125, y: 1.1075261, z: -0.10607573}
+      rotation: {x: -0.029791249, y: -0.01168284, z: -0.021736944, w: 0.9992515}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftKneeEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.12886009, y: 0.6518108, z: -0.07909698}
+      rotation: {x: 0.044025827, y: -0.0068079233, z: -0.0205358, w: 0.9987961}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftShoulderEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.41231212, y: 1.8599906, z: -0.10092008}
+      rotation: {x: 0.007445415, y: 0.0121805575, z: 0.65878564, w: 0.7521953}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_LeftWristEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: -0.5203236, y: 1.0447534, z: -0.08270448}
+      rotation: {x: -0.00545627, y: 0.026495453, z: 0.65876293, w: 0.75186414}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightAnkleEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.14965434, y: 0.13981774, z: -0.12448179}
+      rotation: {x: 0.000022602295, y: 0.0023554398, z: 0.0032646414, w: 0.9999919}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightElbowEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.47704852, y: 1.3672662, z: -0.09670459}
+      rotation: {x: -0.0038968262, y: -0.025115743, z: -0.659366, w: 0.75139236}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightFootEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.15086445, y: 0.018670045, z: -0.037078083}
+      rotation: {x: 0.000022601338, y: 0.0023556307, z: 0.0032645038, w: 0.9999919}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightHipEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.10869125, y: 1.1075261, z: -0.10607573}
+      rotation: {x: -0.029781526, y: 0.011669272, z: 0.02173679, w: 0.99925196}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightKneeEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.12885973, y: 0.6518112, z: -0.07910571}
+      rotation: {x: 0.04401748, y: 0.0067931465, z: 0.02053544, w: 0.99879664}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightShoulderEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.41231212, y: 1.8599906, z: -0.10092008}
+      rotation: {x: 0.007452749, y: -0.012178799, z: -0.65933394, w: 0.75171465}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Ctrl_RightWristEffector
+      parentName: Dog_Torch:_QuickRigCharacter_Ctrl_Reference
+      position: {x: 0.5191329, y: 1.0445958, z: -0.08273765}
+      rotation: {x: -0.0038970376, y: -0.02511567, z: -0.65936565, w: 0.75139266}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Guides
+      parentName: Dogexport1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_Head
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0, y: 2.262036, z: -0.12417628}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_Hips
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0, y: 1.0953664, z: -0.10355461}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_LeftArm
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0.41231197, y: 1.8474058, z: -0.09973831}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_LeftFoot
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0.14965436, y: 0.12720981, z: -0.12160023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_LeftForeArm
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0.63708675, y: 1.4043202, z: -0.08801918}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_LeftHand
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0.77796423, y: 1.1111199, z: -0.07160739}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_LeftLeg
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0.14367568, y: 0.63989407, z: -0.0797937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_LeftShoulder
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0.16492479, y: 1.8474058, z: -0.09973831}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_LeftToeBase
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0.1508645, y: 0.006062155, z: -0.03419661}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_LeftUpLeg
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0.10869125, y: 1.0949088, z: -0.103194505}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_Neck
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0, y: 1.9783697, z: -0.11969833}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_Reference
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0, y: -0.012607213, z: 0.0028812217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_RightArm
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: 0.41231197, y: 1.8474058, z: -0.09973831}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_RightFoot
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: 0.14965436, y: 0.12720981, z: -0.12160023}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_RightForeArm
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: 0.63708675, y: 1.4043202, z: -0.08801918}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_RightHand
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: 0.77796423, y: 1.1111199, z: -0.07160739}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_RightLeg
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: 0.14367568, y: 0.63989407, z: -0.0797937}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_RightShoulder
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: 0.16492479, y: 1.8474058, z: -0.09973831}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_RightToeBase
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: 0.1508645, y: 0.006062155, z: -0.03419661}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_RightUpLeg
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: 0.10869125, y: 1.0949088, z: -0.103194505}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_Spine
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0, y: 1.2504822, z: -0.1036729}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_Spine1
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0, y: 1.4055587, z: -0.1062959}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_Spine2
+      parentName: Dog_Torch:_QuickRigCharacter_Guides
+      position: {x: -0, y: 1.5606353, z: -0.10891889}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Reference
+      parentName: Dogexport1(Clone)
+      position: {x: -0, y: -0.012607213, z: 0.0028812217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Hips
+      parentName: Dog_Torch:_QuickRigCharacter_Reference
+      position: {x: -7.995991e-20, y: 1.1079835, z: -0.10643583}
+      rotation: {x: 0.49980932, y: -0.5001906, z: -0.49980932, w: 0.5001906}
+      scale: {x: 1.000001, y: 1.000001, z: 1.0000005}
+    - name: Dog_Torch:_QuickRigCharacter_LeftUpLeg
+      parentName: Dog_Torch:_QuickRigCharacter_Hips
+      position: {x: 0.00045773297, y: 0.00035975841, z: 0.10869125}
+      rotation: {x: 0.021741852, y: 0.011672915, z: -0.99926066, w: 0.029480936}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000011}
+    - name: Dog_Torch:_QuickRigCharacter_LeftLeg
+      parentName: Dog_Torch:_QuickRigCharacter_LeftUpLeg
+      position: {x: -0.45695734, y: 0.0000051604197, z: 0.00000011296198}
+      rotation: {x: -0.006435025, y: 0.00047326746, z: 0.073783726, w: -0.9972534}
+      scale: {x: 1, y: 1.0000004, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_LeftFoot
+      parentName: Dog_Torch:_QuickRigCharacter_LeftLeg
+      position: {x: -0.51442105, y: -0.0000001033961, z: -0.000000012421817}
+      rotation: {x: 0.0012478014, y: 0.017839197, z: -0.3490073, w: -0.93694943}
+      scale: {x: 1.0000004, y: 1.0000012, z: 1.0000004}
+    - name: Dog_Torch:_QuickRigCharacter_LeftToeBase
+      parentName: Dog_Torch:_QuickRigCharacter_LeftFoot
+      position: {x: -0.1493909, y: 0.000000009661785, z: 0.00000005561692}
+      rotation: {x: -0, y: -0, z: 0.0000000025611369, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.9999999}
+    - name: Dog_Torch:_QuickRigCharacter_RightUpLeg
+      parentName: Dog_Torch:_QuickRigCharacter_Hips
+      position: {x: 0.00045773297, y: 0.00035975841, z: -0.10869125}
+      rotation: {x: -0.011659026, y: 0.021742105, z: 0.029481262, w: 0.9992609}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000006}
+    - name: Dog_Torch:_QuickRigCharacter_RightLeg
+      parentName: Dog_Torch:_QuickRigCharacter_RightUpLeg
+      position: {x: 0.45695817, y: 0.0000029989362, z: 0.000000094107655}
+      rotation: {x: 0.0064358846, y: -0.00047510304, z: -0.07378283, w: 0.9972535}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000005}
+    - name: Dog_Torch:_QuickRigCharacter_RightFoot
+      parentName: Dog_Torch:_QuickRigCharacter_RightLeg
+      position: {x: 0.51442087, y: 0.000000030850966, z: 0.00000005948565}
+      rotation: {x: -0.0012618317, y: -0.01783414, z: 0.34900582, w: 0.93694997}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000007}
+    - name: Dog_Torch:_QuickRigCharacter_RightToeBase
+      parentName: Dog_Torch:_QuickRigCharacter_RightFoot
+      position: {x: 0.14939095, y: -0.000000040497596, z: -0.00000002270732}
+      rotation: {x: 0.000025417885, y: -0.000000029802319, z: -0.00000008118331, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000006}
+    - name: Dog_Torch:_QuickRigCharacter_Spine
+      parentName: Dog_Torch:_QuickRigCharacter_Hips
+      position: {x: -0.15511586, y: 0.000000001497933, z: -3.441637e-17}
+      rotation: {x: -0.000000029802322, y: 0.000000029802322, z: 0.00807488, w: 0.9999674}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: Dog_Torch:_QuickRigCharacter_Spine1
+      parentName: Dog_Torch:_QuickRigCharacter_Spine
+      position: {x: -0.15509872, y: -0.000000003733749, z: -0.000000019924377}
+      rotation: {x: -0, y: -0, z: 8.881784e-16, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_Spine2
+      parentName: Dog_Torch:_QuickRigCharacter_Spine1
+      position: {x: -0.15509869, y: -0.0000000020218571, z: -0.00000007158733}
+      rotation: {x: 0.00000002942693, y: -0.000000030173048, z: 0.004443095, w: 0.99999017}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.9999997}
+    - name: Dog_Torch:_QuickRigCharacter_LeftShoulder
+      parentName: Dog_Torch:_QuickRigCharacter_Spine2
+      position: {x: -0.2864385, y: 0.016575031, z: 0.16492465}
+      rotation: {x: -0.49350888, y: 0.5064079, z: 0.49350896, w: 0.5064079}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Dog_Torch:_QuickRigCharacter_LeftArm
+      parentName: Dog_Torch:_QuickRigCharacter_LeftShoulder
+      position: {x: -0.2473873, y: 0.00000010695064, z: -0.000000012890557}
+      rotation: {x: 0.7099981, y: 0.011537521, z: 0.010926156, w: 0.7040244}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: Dog_Torch:_QuickRigCharacter_LeftForeArm
+      parentName: Dog_Torch:_QuickRigCharacter_LeftArm
+      position: {x: -0.4969769, y: -0.00000017651, z: 0.0000003959161}
+      rotation: {x: 0.000000059604638, y: -0.00000065565104, z: -0.01722197, w: 0.99985176}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000005}
+    - name: Dog_Torch:_QuickRigCharacter_LeftHand
+      parentName: Dog_Torch:_QuickRigCharacter_LeftForeArm
+      position: {x: -0.325703, y: 0.000000024115035, z: -0.00000011618142}
+      rotation: {x: 0.000000019789768, y: 0.0000005815723, z: 0.0000004898756, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+    - name: Dog_Torch:_QuickRigCharacter_RightShoulder
+      parentName: Dog_Torch:_QuickRigCharacter_Spine2
+      position: {x: -0.2864384, y: 0.016575042, z: -0.16492492}
+      rotation: {x: 0.5064079, y: 0.49350893, z: -0.5064079, w: 0.49350885}
+      scale: {x: 0.99999994, y: 0.99999946, z: 0.99999946}
+    - name: Dog_Torch:_QuickRigCharacter_RightArm
+      parentName: Dog_Torch:_QuickRigCharacter_RightShoulder
+      position: {x: 0.24738735, y: 0.00000010699, z: -0.0000000033582894}
+      rotation: {x: -0.7099964, y: -0.011537535, z: -0.010926136, w: -0.70402616}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000006}
+    - name: Dog_Torch:_QuickRigCharacter_RightForeArm
+      parentName: Dog_Torch:_QuickRigCharacter_RightArm
+      position: {x: 0.49697727, y: 0.00000012688257, z: -0.00000052288044}
+      rotation: {x: 0.00000020861627, y: 0.0000018924476, z: -0.017212512, w: 0.9998519}
+      scale: {x: 0.9999998, y: 0.9999996, z: 0.9999994}
+    - name: Dog_Torch:_QuickRigCharacter_RightHand
+      parentName: Dog_Torch:_QuickRigCharacter_RightForeArm
+      position: {x: 0.32570255, y: -0.00000005153451, z: 0.0000000979534}
+      rotation: {x: -0.0000000015389785, y: 0.00000008939343, z: 0.000000018626036,
+        w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000005}
+    - name: Dog_Torch:_QuickRigCharacter_Neck
+      parentName: Dog_Torch:_QuickRigCharacter_Spine2
+      position: {x: -0.4178733, y: -0.000000026067589, z: -0.00000019259338}
+      rotation: {x: -1.7763566e-15, y: -0, z: -0.005006966, w: 0.9999875}
+      scale: {x: 0.99999976, y: 0.99999976, z: 0.9999998}
+    - name: Dog_Torch:_QuickRigCharacter_Head
+      parentName: Dog_Torch:_QuickRigCharacter_Neck
+      position: {x: -0.28370684, y: 0.00000003194306, z: -0.000000011626949}
+      rotation: {x: -0, y: -0, z: 4.6566123e-10, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000002}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 1187356f709e438418b4c1acd60d9056,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

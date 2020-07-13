@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54eac68821c3fc24bad833bf70d7a318, type: 3}
+  m_Name: VaultLvl
+  m_EditorClassIdentifier: 
+  sceneID: 2
+  puzzle: {fileID: 11400000, guid: c2de85a8415fef14abb420abb963ec4b, type: 2}
+  numberOfReset: 0
+  ResetGame: {fileID: 11400000, guid: 253ee07c862e3ab4f82cbc3297975c1c, type: 2}
+  ResetScene: {fileID: 11400000, guid: f6be71e2b9bb13c4cb2235a0c97e186e, type: 2}

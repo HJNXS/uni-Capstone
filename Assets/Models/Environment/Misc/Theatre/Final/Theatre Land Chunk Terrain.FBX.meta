@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 450d0e330ca0e634c931c36a2d83e2c3
+timeCreated: 1535093500
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackstageDoor
+    100002: BackstageFloors
+    100004: Carpet Stairs
+    100006: Front Left Curtain
+    100008: Front Left Curtain001
+    100010: Front Left Curtain002
+    100012: Front Left Curtain003
+    100014: Front Right Curtain
+    100016: Front Right Curtain001
+    100018: Front Right Curtain002
+    100020: Front Right Curtain003
+    100022: FrontStage
+    100024: LowerJaw001
+    100026: Main Carpet
+    100028: Main Seating
+    100030: MainSpine001
+    100032: Pipe001
+    100034: Pipe002
+    100036: Pipe003
+    100038: Pipe004
+    100040: Ribs016
+    100042: Ribs017
+    100044: Ribs018
+    100046: Ribs019
+    100048: Ribs020
+    100050: Ribs021
+    100052: Ribs022
+    100054: RibsLeftObject016
+    100056: RibsLeftObject017
+    100058: RibsLeftObject018
+    100060: RibsLeftObject019
+    100062: RibsLeftObject020
+    100064: RibsLeftObject021
+    100066: RibsLeftObject022
+    100068: RibsLeftObject023
+    100070: RibsRightObject032
+    100072: RibsRightObject033
+    100074: RibsRightObject034
+    100076: RibsRightObject035
+    100078: RibsRightObject036
+    100080: RibsRightObject037
+    100082: RibsRightObject038
+    100084: RibsRightObject039
+    100086: Rock001
+    100088: Rock002
+    100090: Rock003
+    100092: Rock004
+    100094: Rock005
+    100096: Rock006
+    100098: Rock007
+    100100: Rock008
+    100102: Rock009
+    100104: Rock010
+    100106: Rock011
+    100108: Rock012
+    100110: Rock013
+    100112: Rock014
+    100114: Rock015
+    100116: Rock016
+    100118: Rock017
+    100120: Rock018
+    100122: Rock019
+    100124: Rock020
+    100126: Rock021
+    100128: Rock022
+    100130: Rock023
+    100132: Rock024
+    100134: Rock025
+    100136: Rock026
+    100138: Seating Rails
+    100140: Skull001
+    100142: Spine008
+    100144: StageStairs
+    100146: StairWall001
+    100148: StairWall002
+    100150: Temp Seats
+    100152: //RootNode
+    100154: WallBackstage009
+    100156: WallRailFront
+    100158: WallStageCentre
+    100160: WallStageFront
+    400000: BackstageDoor
+    400002: BackstageFloors
+    400004: Carpet Stairs
+    400006: Front Left Curtain
+    400008: Front Left Curtain001
+    400010: Front Left Curtain002
+    400012: Front Left Curtain003
+    400014: Front Right Curtain
+    400016: Front Right Curtain001
+    400018: Front Right Curtain002
+    400020: Front Right Curtain003
+    400022: FrontStage
+    400024: LowerJaw001
+    400026: Main Carpet
+    400028: Main Seating
+    400030: MainSpine001
+    400032: Pipe001
+    400034: Pipe002
+    400036: Pipe003
+    400038: Pipe004
+    400040: Ribs016
+    400042: Ribs017
+    400044: Ribs018
+    400046: Ribs019
+    400048: Ribs020
+    400050: Ribs021
+    400052: Ribs022
+    400054: RibsLeftObject016
+    400056: RibsLeftObject017
+    400058: RibsLeftObject018
+    400060: RibsLeftObject019
+    400062: RibsLeftObject020
+    400064: RibsLeftObject021
+    400066: RibsLeftObject022
+    400068: RibsLeftObject023
+    400070: RibsRightObject032
+    400072: RibsRightObject033
+    400074: RibsRightObject034
+    400076: RibsRightObject035
+    400078: RibsRightObject036
+    400080: RibsRightObject037
+    400082: RibsRightObject038
+    400084: RibsRightObject039
+    400086: Rock001
+    400088: Rock002
+    400090: Rock003
+    400092: Rock004
+    400094: Rock005
+    400096: Rock006
+    400098: Rock007
+    400100: Rock008
+    400102: Rock009
+    400104: Rock010
+    400106: Rock011
+    400108: Rock012
+    400110: Rock013
+    400112: Rock014
+    400114: Rock015
+    400116: Rock016
+    400118: Rock017
+    400120: Rock018
+    400122: Rock019
+    400124: Rock020
+    400126: Rock021
+    400128: Rock022
+    400130: Rock023
+    400132: Rock024
+    400134: Rock025
+    400136: Rock026
+    400138: Seating Rails
+    400140: Skull001
+    400142: Spine008
+    400144: StageStairs
+    400146: StairWall001
+    400148: StairWall002
+    400150: Temp Seats
+    400152: //RootNode
+    400154: WallBackstage009
+    400156: WallRailFront
+    400158: WallStageCentre
+    400160: WallStageFront
+    2100000: Carpet01(LndChnk)
+    2100002: Earth01(LndChnk)
+    2100004: Stone01(LndChnk)
+    2100006: Stone02(LndChnk)
+    2100008: 'Material #116'
+    2100010: Rock
+    2100012: Dark Rock
+    2100014: Carpet01(StArea)
+    2100016: Stone02(StArea)
+    2100018: Stone03(StArea)
+    2100020: Wood02(StArea)
+    2100022: Wood01(StArea)
+    2100024: Stone01(StArea)
+    2100026: SafetyRails
+    2100028: CarpetRed
+    2100030: CurtainRed
+    2100032: CarpetGold
+    2100034: Wood01(BkStg)
+    2100036: Stone01(BkStg)
+    2100038: Carpet(BkStg)
+    2100040: Wood02(BkStg)
+    2100042: Stone03(BkStg)
+    2100044: Stone02(BkStg)
+    2100046: Wood02(FntStg)
+    2100048: Wood01(FntStg)
+    2100050: Wood03(FntStg)
+    2100052: Wood04(FntStg)
+    2100054: WoodWalls
+    2100056: StoneWalls
+    2100058: No Name
+    2300000: BackstageDoor
+    2300002: BackstageFloors
+    2300004: Carpet Stairs
+    2300006: Front Left Curtain
+    2300008: Front Left Curtain001
+    2300010: Front Left Curtain002
+    2300012: Front Left Curtain003
+    2300014: Front Right Curtain
+    2300016: Front Right Curtain001
+    2300018: Front Right Curtain002
+    2300020: Front Right Curtain003
+    2300022: FrontStage
+    2300024: LowerJaw001
+    2300026: Main Carpet
+    2300028: Main Seating
+    2300030: MainSpine001
+    2300032: Pipe001
+    2300034: Pipe002
+    2300036: Pipe003
+    2300038: Pipe004
+    2300040: Ribs016
+    2300042: Ribs017
+    2300044: Ribs018
+    2300046: Ribs019
+    2300048: Ribs020
+    2300050: Ribs021
+    2300052: Ribs022
+    2300054: RibsLeftObject016
+    2300056: RibsLeftObject017
+    2300058: RibsLeftObject018
+    2300060: RibsLeftObject019
+    2300062: RibsLeftObject020
+    2300064: RibsLeftObject021
+    2300066: RibsLeftObject022
+    2300068: RibsLeftObject023
+    2300070: RibsRightObject032
+    2300072: RibsRightObject033
+    2300074: RibsRightObject034
+    2300076: RibsRightObject035
+    2300078: RibsRightObject036
+    2300080: RibsRightObject037
+    2300082: RibsRightObject038
+    2300084: RibsRightObject039
+    2300086: Rock001
+    2300088: Rock002
+    2300090: Rock003
+    2300092: Rock004
+    2300094: Rock005
+    2300096: Rock006
+    2300098: Rock007
+    2300100: Rock008
+    2300102: Rock009
+    2300104: Rock010
+    2300106: Rock011
+    2300108: Rock012
+    2300110: Rock013
+    2300112: Rock014
+    2300114: Rock015
+    2300116: Rock016
+    2300118: Rock017
+    2300120: Rock018
+    2300122: Rock019
+    2300124: Rock020
+    2300126: Rock021
+    2300128: Rock022
+    2300130: Rock023
+    2300132: Rock024
+    2300134: Rock025
+    2300136: Rock026
+    2300138: Seating Rails
+    2300140: Skull001
+    2300142: Spine008
+    2300144: StageStairs
+    2300146: StairWall001
+    2300148: StairWall002
+    2300150: Temp Seats
+    2300152: //RootNode
+    2300154: WallBackstage009
+    2300156: WallRailFront
+    2300158: WallStageCentre
+    2300160: WallStageFront
+    3300000: BackstageDoor
+    3300002: BackstageFloors
+    3300004: Carpet Stairs
+    3300006: Front Left Curtain
+    3300008: Front Left Curtain001
+    3300010: Front Left Curtain002
+    3300012: Front Left Curtain003
+    3300014: Front Right Curtain
+    3300016: Front Right Curtain001
+    3300018: Front Right Curtain002
+    3300020: Front Right Curtain003
+    3300022: FrontStage
+    3300024: LowerJaw001
+    3300026: Main Carpet
+    3300028: Main Seating
+    3300030: MainSpine001
+    3300032: Pipe001
+    3300034: Pipe002
+    3300036: Pipe003
+    3300038: Pipe004
+    3300040: Ribs016
+    3300042: Ribs017
+    3300044: Ribs018
+    3300046: Ribs019
+    3300048: Ribs020
+    3300050: Ribs021
+    3300052: Ribs022
+    3300054: RibsLeftObject016
+    3300056: RibsLeftObject017
+    3300058: RibsLeftObject018
+    3300060: RibsLeftObject019
+    3300062: RibsLeftObject020
+    3300064: RibsLeftObject021
+    3300066: RibsLeftObject022
+    3300068: RibsLeftObject023
+    3300070: RibsRightObject032
+    3300072: RibsRightObject033
+    3300074: RibsRightObject034
+    3300076: RibsRightObject035
+    3300078: RibsRightObject036
+    3300080: RibsRightObject037
+    3300082: RibsRightObject038
+    3300084: RibsRightObject039
+    3300086: Rock001
+    3300088: Rock002
+    3300090: Rock003
+    3300092: Rock004
+    3300094: Rock005
+    3300096: Rock006
+    3300098: Rock007
+    3300100: Rock008
+    3300102: Rock009
+    3300104: Rock010
+    3300106: Rock011
+    3300108: Rock012
+    3300110: Rock013
+    3300112: Rock014
+    3300114: Rock015
+    3300116: Rock016
+    3300118: Rock017
+    3300120: Rock018
+    3300122: Rock019
+    3300124: Rock020
+    3300126: Rock021
+    3300128: Rock022
+    3300130: Rock023
+    3300132: Rock024
+    3300134: Rock025
+    3300136: Rock026
+    3300138: Seating Rails
+    3300140: Skull001
+    3300142: Spine008
+    3300144: StageStairs
+    3300146: StairWall001
+    3300148: StairWall002
+    3300150: Temp Seats
+    3300152: //RootNode
+    3300154: WallBackstage009
+    3300156: WallRailFront
+    3300158: WallStageCentre
+    3300160: WallStageFront
+    4300000: Theatre Land Chunk
+    4300002: MainSpine001
+    4300004: Ribs016
+    4300006: Ribs017
+    4300008: Ribs018
+    4300010: Ribs019
+    4300012: Ribs020
+    4300014: Ribs021
+    4300016: Ribs022
+    4300018: RibsLeftObject016
+    4300020: RibsLeftObject017
+    4300022: RibsLeftObject018
+    4300024: RibsLeftObject019
+    4300026: RibsLeftObject020
+    4300028: RibsLeftObject021
+    4300030: RibsLeftObject022
+    4300032: RibsLeftObject023
+    4300034: RibsRightObject032
+    4300036: RibsRightObject033
+    4300038: RibsRightObject034
+    4300040: RibsRightObject035
+    4300042: RibsRightObject036
+    4300044: RibsRightObject037
+    4300046: RibsRightObject038
+    4300048: RibsRightObject039
+    4300050: Spine008
+    4300052: Skull001
+    4300054: LowerJaw001
+    4300056: Pipe001
+    4300058: Pipe002
+    4300060: Pipe003
+    4300062: Pipe004
+    4300064: Rock001
+    4300066: Rock002
+    4300068: Rock003
+    4300070: Rock004
+    4300072: Rock005
+    4300074: Rock006
+    4300076: Rock007
+    4300078: Rock008
+    4300080: Rock009
+    4300082: Rock010
+    4300084: Rock011
+    4300086: Rock012
+    4300088: Rock013
+    4300090: Rock014
+    4300092: Rock015
+    4300094: Rock016
+    4300096: Rock017
+    4300098: Rock018
+    4300100: Rock019
+    4300102: Rock020
+    4300104: Rock021
+    4300106: Rock022
+    4300108: Rock023
+    4300110: Rock024
+    4300112: Rock025
+    4300114: Rock026
+    4300116: Main Seating
+    4300118: Seating Rails
+    4300120: Main Carpet
+    4300122: Temp Seats
+    4300124: BackstageFloors
+    4300126: FrontStage
+    4300128: StairWall002
+    4300130: StairWall001
+    4300132: StageStairs
+    4300134: Carpet Stairs
+    4300136: WallStageCentre
+    4300138: WallBackstage009
+    4300140: BackstageDoor
+    4300142: WallStageFront
+    4300144: WallRailFront
+    4300146: Front Left Curtain
+    4300148: Front Left Curtain001
+    4300150: Front Left Curtain002
+    4300152: Front Left Curtain003
+    4300154: Front Right Curtain
+    4300156: Front Right Curtain001
+    4300158: Front Right Curtain002
+    4300160: Front Right Curtain003
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet(BkStg)
+    second: {fileID: 2100000, guid: 0b811cb8c50c10a4696783e15c0555d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet01(LndChnk)
+    second: {fileID: 2100000, guid: 5f53aa3be2e7c4647886fe10f08e3f88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet01(StArea)
+    second: {fileID: 2100000, guid: dade3d267faf0384986166af31f833fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarpetGold
+    second: {fileID: 2100000, guid: 2059658e11ac71a4abc68bdb987a5291, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarpetRed
+    second: {fileID: 2100000, guid: 58f966a4c5da6f84ba6799de9290af79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CurtainRed
+    second: {fileID: 2100000, guid: 83b600711c9656b46aacb386969782f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Rock
+    second: {fileID: 2100000, guid: 95dfc4c9cffc2a84fbcfdc6767f28a43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Earth01(LndChnk)
+    second: {fileID: 2100000, guid: 4037f16b9f1d12440b92f91793c4c994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #116'
+    second: {fileID: 2100000, guid: 41816f214ae348546aea66d10de74f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e03035665c70c7e488a4a07c58675829, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rock
+    second: {fileID: 2100000, guid: 833b6f9a11e4137428548ac3b9457d65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SafetyRails
+    second: {fileID: 2100000, guid: cce32b2410fbbf644a41d46fccbd796d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone01(BkStg)
+    second: {fileID: 2100000, guid: beca951748369544db57bfc7f07bea04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone01(LndChnk)
+    second: {fileID: 2100000, guid: 58ba5ed45727bd64a921c66f2f5a1ddd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone01(StArea)
+    second: {fileID: 2100000, guid: 4e08b92d4754a154787247de416a76fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone02(BkStg)
+    second: {fileID: 2100000, guid: 52bd832fc51255444aafadc924d866f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone02(LndChnk)
+    second: {fileID: 2100000, guid: bebe07fe1ff0b9b458cb95e46c5db5fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone02(StArea)
+    second: {fileID: 2100000, guid: 5e7d44487cecb1440988b101a580a516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone03(BkStg)
+    second: {fileID: 2100000, guid: fdebbfdd6413f3f43811cab3f8bb8a92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone03(StArea)
+    second: {fileID: 2100000, guid: 77d7697ff6a4be348a608195a5d63341, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StoneWalls
+    second: {fileID: 2100000, guid: fae2be99d69d535428a7e8bd194c15d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood01(BkStg)
+    second: {fileID: 2100000, guid: 8c23393013d35d84c9784fe7bb710fb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood01(FntStg)
+    second: {fileID: 2100000, guid: 2315f276b11a990499dba17a07e2674b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood01(StArea)
+    second: {fileID: 2100000, guid: 58e6e83ddd79d9f4ca9b9f94ab6f0e88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood02(BkStg)
+    second: {fileID: 2100000, guid: 86a12b7b5caeb1d4eac3358ae2a9b57e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood02(FntStg)
+    second: {fileID: 2100000, guid: 235d946edbae252469d38c902432fdfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood02(StArea)
+    second: {fileID: 2100000, guid: 37f8b22b483b6a74397d57f532df6f6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood03(FntStg)
+    second: {fileID: 2100000, guid: 996758257c5857044921b69728828823, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood04(FntStg)
+    second: {fileID: 2100000, guid: 3847df17b0882074997cbb92cfa2dca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodWalls
+    second: {fileID: 2100000, guid: 965c6458df857f942b0793afd69f2d41, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CheckStone
+    second: {fileID: 2800000, guid: 2257143a343d5b04685e2482c0cb06b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CheckWood
+    second: {fileID: 2800000, guid: ce55e1c516d774c47b331e2e792a9002, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Theatre Carpet Tiles
+    second: {fileID: 2800000, guid: 7f60fb68159487548955ad41190be4e3, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

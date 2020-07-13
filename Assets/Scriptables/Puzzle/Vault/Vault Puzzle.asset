@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b873a3ae9b1079439133154cba39515, type: 3}
+  m_Name: Vault Puzzle
+  m_EditorClassIdentifier: 
+  inventory: {fileID: 11400000, guid: c85b080e9fc0320459286df7fc6b703e, type: 2}
+  gameEvent:
+  - {fileID: 11400000, guid: d9f668224683e8349ae8186ada2410ec, type: 2}
+  - {fileID: 11400000, guid: f07d8c9938f6f004aa615238795da82a, type: 2}
+  puzzleCheck:
+  - {fileID: 11400000, guid: cb47a492b65cca94c9998c62ccf82069, type: 2}
+  - {fileID: 11400000, guid: a1d0dfd14276b2e4fa762eff65d58f03, type: 2}

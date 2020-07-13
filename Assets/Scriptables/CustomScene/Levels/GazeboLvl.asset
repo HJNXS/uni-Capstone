@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54eac68821c3fc24bad833bf70d7a318, type: 3}
+  m_Name: GazeboLvl
+  m_EditorClassIdentifier: 
+  sceneID: 1
+  puzzle: {fileID: 11400000, guid: dd06383bb44003045affa4f21dabd94d, type: 2}
+  numberOfReset: 4
+  ResetGame: {fileID: 11400000, guid: 253ee07c862e3ab4f82cbc3297975c1c, type: 2}
+  ResetScene: {fileID: 11400000, guid: f6be71e2b9bb13c4cb2235a0c97e186e, type: 2}
+  decreaseLifeEvent:
+  - {fileID: 11400000, guid: b471a21d730a77948a9b9c248717a291, type: 2}
+  - {fileID: 11400000, guid: a458916f2ba641549aaa248111a03698, type: 2}
+  - {fileID: 11400000, guid: 8a90efbf7451a5b4982138e0b7f01fa6, type: 2}

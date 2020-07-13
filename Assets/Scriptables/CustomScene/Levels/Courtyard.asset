@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54eac68821c3fc24bad833bf70d7a318, type: 3}
+  m_Name: Courtyard
+  m_EditorClassIdentifier: 
+  sceneID: 3
+  puzzle: {fileID: 11400000, guid: dd06383bb44003045affa4f21dabd94d, type: 2}
+  numberOfReset: 0
+  ResetGame: {fileID: 11400000, guid: 253ee07c862e3ab4f82cbc3297975c1c, type: 2}
+  ResetScene: {fileID: 11400000, guid: 4c88d91cb8e6d36498615c11c0a29835, type: 2}
+  decreaseLifeEvent: []

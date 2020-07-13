@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 3a522edabb984204fb6402735016b54e
+timeCreated: 1529559168
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Chest Lid001
+    100002: Hinge002
+    100004: Hinge003
+    100006: Lock Mechanism001
+    100008: Lock004
+    100010: Lock005
+    100012: Lock006
+    100014: Lock007
+    100016: //RootNode
+    400000: Chest Lid001
+    400002: Hinge002
+    400004: Hinge003
+    400006: Lock Mechanism001
+    400008: Lock004
+    400010: Lock005
+    400012: Lock006
+    400014: Lock007
+    400016: //RootNode
+    2100000: Chest Wood
+    2100002: Chest Metal
+    2100004: Chest Wood 002
+    2100006: 'Material #105'
+    2100008: 'Material #107'
+    2100010: 'Material #106'
+    2300000: Chest Lid001
+    2300002: Hinge002
+    2300004: Hinge003
+    2300006: Lock Mechanism001
+    2300008: Lock004
+    2300010: Lock005
+    2300012: Lock006
+    2300014: Lock007
+    2300016: //RootNode
+    3300000: Chest Lid001
+    3300002: Hinge002
+    3300004: Hinge003
+    3300006: Lock Mechanism001
+    3300008: Lock004
+    3300010: Lock005
+    3300012: Lock006
+    3300014: Lock007
+    3300016: //RootNode
+    4300000: Open Treasure Chest001
+    4300002: Hinge002
+    4300004: Hinge003
+    4300006: Chest Lid001
+    4300008: Lock007
+    4300010: Lock006
+    4300012: Lock005
+    4300014: Lock004
+    4300016: Lock Mechanism001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chest Metal
+    second: {fileID: 2100000, guid: 2d4862ee682bc9042ae9d9450550c0fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chest Wood
+    second: {fileID: 2100000, guid: 25151c361618678478010fddd48c75a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chest Wood 002
+    second: {fileID: 2100000, guid: 8b6d78c2876360249a4bae5a492bf86d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #105'
+    second: {fileID: 2100000, guid: f65edccec846479449339d67d46bfe09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #106'
+    second: {fileID: 2100000, guid: af0189b281659234dab493d7c26da39a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #107'
+    second: {fileID: 2100000, guid: 8d975c4acce6be64d90ff3e749823a09, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
